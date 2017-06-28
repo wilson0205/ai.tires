@@ -1,8 +1,10 @@
 ---
 title: About AI.tires
 permalink: "/about/"
-layout: page
 tags: about
+layout: page
 ---
 
-Copyright 2016 AI.tires℠. All rights reserved.
+Artificial Intelligence Blog.
+
+Copyright 2017 AI.tires℠. All rights reserved.
