@@ -1,7 +1,7 @@
 ---
-layout: page
 title: About AI.tires
-permalink: /about/
+permalink: "/about/"
+layout: page
 tags: about
 ---
 
