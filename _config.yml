@@ -15,7 +15,7 @@ baseurl: ''
 url: http://ai.tires
 date_format: "%b %-d, %Y"
 google_verification: 
-google_analytics: 
+google_analytics: UA-102575224-6
 google_tag_manager: 
 bing_verification: 
 animated: false
